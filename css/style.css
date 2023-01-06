@@ -1,0 +1,28 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+banner-heading{
+    font-size: 74px;
+    font-weight: 900;
+}
+.sales-technique{
+    width: 70px;
+    height: 70px;
+}
+.boosla{
+    width: 70px;
+    height: 70px;
+}
+.cash{
+    width: 70px;
+    height: 70px;
+
+
+}
+.feature-image{
+    border-radius: 50%;
+    width: 424px;
+    height: 424px%;
+
+
+
